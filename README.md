@@ -1,1 +1,1 @@
-# template-repository-html-css-js
+# template-html-css
